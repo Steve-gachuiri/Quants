@@ -13,7 +13,7 @@ The repository is organized into three main branches, each focusing on a specifi
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Quantitative-Methods.git
+   git clone https://github.com/Steve-gachuiri/Quants.git
    ```
 2. Navigate to the appropriate branch (e.g., `Time-Series-Data-Analysis`) to access scripts.
    ```bash
