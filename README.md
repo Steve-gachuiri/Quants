@@ -15,9 +15,9 @@ The repository is organized into three main branches, each focusing on a specifi
    ```bash
    git clone https://github.com/Steve-gachuiri/Quants.git
    ```
-2. Navigate to the appropriate branch (e.g., `Time-Series-Data-Analysis`) to access scripts.
+2. Navigate to the appropriate branch (e.g., `cross-section-data-analysis`) to access scripts.
    ```bash
-   git checkout Time-Series-Data-Analysis
+   git checkout cross-section-data-analysis
    ```
 3. Ensure required libraries are installed before running the scripts.
    ```R
